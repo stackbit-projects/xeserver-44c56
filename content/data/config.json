@@ -28,5 +28,6 @@
             "url": "/faq",
             "style": "link"
         }
-    ]
+    ],
+    "domain": "https://xeserver-44c56.netlify.app"
 }
